@@ -2,7 +2,7 @@ class ValetPhpAT72 < Formula
   desc "General-purpose scripting language"
   homepage "https://secure.php.net/"
   url "https://php.net/get/php-7.2.15.tar.xz/from/this/mirror"
-  sha256 "75e90012faef700dffb29311f3d24fa25f1a5e0f70254a9b8d5c794e25e938ce"
+  sha256 "a6a6cc03388060aa5f8f9e45799b72bce1c7ed7b9d7b3f1187787202aad91d25"
 
   bottle do
     root_url "https://dl.bintray.com/henkrehorst/homebrew-php"
